@@ -1,0 +1,9 @@
+Результат Метрик Для XGBoost
+              precision    recall  f1-score   support
+
+           0       0.48      0.17      0.25       342
+           1       0.51      0.83      0.63       358
+
+    accuracy                           0.50       700
+   macro avg       0.49      0.50      0.44       700
+weighted avg       0.49      0.50      0.44       700

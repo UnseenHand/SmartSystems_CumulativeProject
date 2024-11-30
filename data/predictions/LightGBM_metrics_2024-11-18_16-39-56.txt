@@ -1,0 +1,9 @@
+Результат Метрик Для LightGBM
+              precision    recall  f1-score   support
+
+           0       0.48      0.38      0.42       342
+           1       0.50      0.61      0.55       358
+
+    accuracy                           0.49       700
+   macro avg       0.49      0.49      0.49       700
+weighted avg       0.49      0.49      0.49       700

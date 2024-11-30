@@ -1,0 +1,9 @@
+Результат Метрик Для SGDClassifier
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       342
+           1       0.51      1.00      0.68       358
+
+    accuracy                           0.51       700
+   macro avg       0.26      0.50      0.34       700
+weighted avg       0.26      0.51      0.35       700

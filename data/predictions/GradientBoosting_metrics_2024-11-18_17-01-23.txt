@@ -1,0 +1,9 @@
+Результат Метрик Для GradientBoosting
+              precision    recall  f1-score   support
+
+           0       0.51      0.13      0.21       342
+           1       0.51      0.88      0.65       358
+
+    accuracy                           0.51       700
+   macro avg       0.51      0.50      0.43       700
+weighted avg       0.51      0.51      0.43       700
